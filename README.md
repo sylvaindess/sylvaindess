@@ -78,11 +78,16 @@ Testing and fine-tuning large language models (LLMs) on biomedical and neuropsyc
 
 ### 📘 Learning Journal & Blog
 
-I document my research path in AI, neuroscience, and bioinformatics through a GitHub blog and private lab notebooks. Topics include:
+I’m [documenting my research journey](https://sylvaindess.github.io/) in AI, neuroscience, and bioinformatics as I build a portfolio at the intersection of machine learning and cognitive health.
 
-- Detecting Alzheimer’s through linguistic biomarkers
-- Protein-protein interaction networks in cognitive disorders
-- How LLMs can support biomedical discovery and care
+Future blog posts will cover:
+
+- Extracting imaging biomarkers of brain aging (MRI data, OASIS)  
+- Detecting early signs of Alzheimer’s through NLP and linguistic cues  
+- Exploring protein networks involved in cognitive decline  
+- Building tools with LLMs for biomedical insight and accessibility.
+
+Blog posts will be published gradually throughout August and September.
 
 ---
 
