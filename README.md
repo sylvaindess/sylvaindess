@@ -60,17 +60,19 @@ I’m currently active as a **recruitment manager at the [Club d'intelligence ar
 
 ### 📌 Featured Projects
 
-🧠 Brain Aging Biomarkers
+🧠 [Brain Aging Biomarkers](https://github.com/sylvaindess/brain-aging-biomarkers)  
 MRI-based exploration of brain structures over time using public imaging datasets (OASIS/ADNI). Toward early detection of cognitive decline.
 
-🧬 Cypin & Neuroplasticity Modeling (coming soon)
+🧬 Cypin & Neuroplasticity Modeling (coming soon)  
 Exploring the role of Cypin in Alzheimer’s using network biology, protein data, and pathway visualization tools.
 
-💬 Clinical NLP Neurodegeneration (coming soon)
+💬 Clinical NLP Neurodegeneration (coming soon)  
 Language-based biomarkers in dementia: parsing patient speech and clinical notes to detect cognitive drift.
 
-🤖 LLMs for Cognitive Health (coming soon)
+🤖 LLMs for Cognitive Health (coming soon)  
 Testing and fine-tuning large language models (LLMs) on biomedical and neuropsych data to support research and assistive AI.
+
+[Check out my Alpha Zeta: Brain Aging Portfolio Project progress](https://github.com/users/sylvaindess/projects/5)
 
 ---
 
